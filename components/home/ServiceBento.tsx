@@ -46,7 +46,7 @@ export default function ServiceBento() {
               />
               <div className="absolute inset-0 bg-linear-to-t from-deep via-deep/45 to-deep/0" aria-hidden />
 
-              <span className="absolute top-5 right-5 inline-flex size-12 items-center justify-center rounded-full bg-paper/90 text-forest transition-all duration-500 ease-out-soft group-hover:rotate-45 group-hover:bg-lime hover:text-deep">
+              <span className="absolute top-5 right-5 inline-flex size-12 items-center justify-center rounded-full bg-paper/90 text-forest transition-all duration-500 ease-out-soft group-hover:rotate-45 group-hover:bg-lime group-hover:text-deep">
                 <ArrowUpRight className="size-5" aria-hidden />
               </span>
 
